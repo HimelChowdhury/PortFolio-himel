@@ -241,7 +241,7 @@ margin-top: 150px;
      
     }
     .second-cobi{
-       margin-left:100px;
+       margin-left:90px;
     }
     .imformation{
        margin: 0;
@@ -256,29 +256,36 @@ margin-top: 150px;
         flex-wrap: wrap;
     }
     .Skill-text{
-        width: 400px;
+        width: 360px;
         padding-left: 3px;
     }
 .project-Skill{
-    width: 400px;
+    width: 380px;
 }
 .html{
-    width: 370px;
+    width: 320px;
 }
 .css{
-    width: 350px;
+    width: 300px;
 }
 .js{
-    width: 335px;
+    width: 290px;
 }
 .py{
-    width: 325px;
+    width: 292px;
 }
 .wordpress{
-    width: 390px;
+    width: 345px;
+}
+.firebase{
+    width: 310px;
 }
 #work{
     margin: 0;
+   
+}
+.work-pic{
+    width: 380px;
 }
 .picture-of-work{
     margin: 0;
