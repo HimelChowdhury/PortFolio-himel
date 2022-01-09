@@ -206,12 +206,15 @@ margin-top: 150px;
 @media (max-width:500px){
     #Home{
         flex-wrap:wrap;
+        width: 400px;
        
     }
     .first-image{
        position: absolute;
     bottom: 40px;
-    left: 80px;
+    left: 60px;
+    height: 300px;
+    width: 300px;
     
     }
     .himel{
@@ -227,9 +230,7 @@ margin-top: 150px;
        margin: 0;
        width: 5px;
     }
-    .first-image{
-       margin-right: 400px;
-    }
+    
 
     .flexpart{
         flex-wrap: wrap;
@@ -240,20 +241,23 @@ margin-top: 150px;
      
     }
     .second-cobi{
-       margin-left:120px;
+       margin-left:100px;
     }
     .imformation{
        margin: 0;
         text-align: center;
-        width: 450px;
+        width: 400px;
        
     }
-
+#skill{
+    margin: 0;
+}
     .skill-picture{
         flex-wrap: wrap;
     }
     .Skill-text{
         width: 400px;
+        padding-left: 3px;
     }
 .project-Skill{
     width: 400px;
@@ -273,14 +277,25 @@ margin-top: 150px;
 .wordpress{
     width: 390px;
 }
-
+#work{
+    margin: 0;
+}
+.picture-of-work{
+    margin: 0;
+}
     .cobi{
         display: none;
     }
+    .inpot{
+        width: 200px;
+    }
     .tex-box{
-        width: 400px;
+        width: 300px;
     }
     .submit-btn{
        margin-left: 50px;
+    }
+    .footer{
+        width: 100%;
     }
 }
